@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://thenexumapp:Thenexumapp%40987@thenexumapp.sfghen1.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
